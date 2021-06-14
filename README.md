@@ -9,4 +9,4 @@ If anyone of my interests resonates with yours, follow me up on my profile and I
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Nilabhro29)
 
 
-![counter](https://[YourEndpoint].m.pipedream.net)
+
