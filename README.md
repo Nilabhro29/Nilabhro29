@@ -1,16 +1,16 @@
 
-#HI, I'm Nilabhro
+HI, I'm Nilabhro
 
-#I love developing full stack applications using MERN Stack
+I love developing full stack applications using MERN Stack
 
-#Pursuing Electronics and Telecommunication Engineering from Jadavpur University (3rd year)
+Pursuing Electronics and Telecommunication Engineering from Jadavpur University (3rd year)
 
-#Cricketer (University and National Level), Fitness freak, Love exploring new places and do I have to mention that "FOODIE" ;)
+Cricketer (University and National Level), Fitness freak, Love exploring new places and do I have to mention that "FOODIE" ;)
 
-#If anyone of my interests resonates with yours, follow me up on my profile and I'm sure you won't regret it :)
+If any of my interests resonates with yours, follow me up on my profile and I'm sure you won't regret it :)
 
 
-#Connect with me on Linkedin, Facebook:smiley:
+Connect with me on Linkedin, Facebook:smiley:
 
 
 <a href="https://www.linkedin.com/in/nilabhro-chakraborty-2975b41a9/">
