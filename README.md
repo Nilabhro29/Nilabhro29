@@ -24,7 +24,7 @@ Connect with me on Linkedin, Facebook:smiley:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Nilabhro29)
 
-
+![Visitor Count](https://profile-counter.glitch.me/Nilabhro29/count.svg)
 
 
 
