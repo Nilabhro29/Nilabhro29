@@ -22,7 +22,7 @@ Connect with me on Linkedin, Facebook:smiley:
 </a>
 
 
-![Github stats] (https://github-readme-stats.vercel.app/api?username=Nilabhro29)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Nilabhro29)
 
 PROFILE VISITS
 
