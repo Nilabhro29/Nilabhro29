@@ -3,7 +3,7 @@ HI, I'm Nilabhro
 
 I love developing full stack applications using MERN Stack
 
-Pursuing Electronics and Telecommunication Engineering from Jadavpur University (3rd year)
+Pursuing Electronics and Telecommunication Engineering from Jadavpur University (Final year)
 
 Cricketer (University and National Level), Fitness freak, Love exploring new places and do I have to mention that "FOODIE" ;)
 
