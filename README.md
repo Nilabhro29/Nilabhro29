@@ -1,9 +1,9 @@
 
 HI, I'm Nilabhro
 
-I love developing full stack applications using MERN Stack
+I love developing full stack applications using MERN Stack. Some technologies I have worked on - Python, Django, Java, Springboot, SQL, MongoDB
 
-Pursuing Electronics and Telecommunication Engineering from Jadavpur University (Final year)
+Cloud Engineer, BlueVector AI | ECE Undergrad, Jadavpur University
 
 Cricketer (University and National Level), Fitness freak, Love exploring new places and do I have to mention that "FOODIE" ;)
 
